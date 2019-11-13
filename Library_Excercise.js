@@ -1,4 +1,4 @@
-Library Excercise using class
+// Library Excercise using class
 
 class Book{
   constructor(title,author,copyrightDate,ISBN,numberOfPages,numberOfTimes,bookDiscarded){
